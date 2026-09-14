@@ -26,19 +26,6 @@ A interface do HTML tool EXE é dividida em campos de configuração e uma barra
 
 No rodapé ficam os créditos: Contato Pessoal (link para o Telegram) e KCB Launcher (link para outro projeto).
 
-O que vem dentro do ZIP gerado
-
-Ao clicar em gerar, o usuário baixa um arquivo `.zip` contendo:
-
-- `package.json` com as dependências do Electron.
-- `electron/main.cjs` com a lógica principal do aplicativo.
-- `electron/updater.cjs` com o sistema de atualização.
-- `electron/assets.cjs` com o HTML embutido em memória.
-- `app/` com o arquivo HTML original.
-- `build/` com o ícone do aplicativo.
-- `README.md` com instruções de instalação, execução e empacotamento.
-- `version.txt` com a versão inicial.
-
 Tecnologia dos aplicativos gerados
 
 Cada aplicativo gerado usa:
