@@ -1,5 +1,5 @@
 # HTML tool EXE
-HTML tool EXE e um aplicativo baseado no Electron, para criar outros aplicativos usando o Electron, Node.JS e NPM.
+
 
 HTML tool EXE é um aplicativo desktop para Windows 10 e 11 que transforma páginas web em programas executáveis (.exe). Ele funciona como um gerador: você preenche os dados, escolhe um arquivo HTML ou informa um link de site, e recebe um projeto pronto para rodar e empacotar.
 
